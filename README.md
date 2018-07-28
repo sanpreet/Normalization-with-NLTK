@@ -2,11 +2,11 @@
 ## Let see the final Look at the string after and before Normalization using the image
 ![demo_result](https://user-images.githubusercontent.com/3431730/43356135-bb850eec-9288-11e8-968a-4c24932670c0.png)
 
-### I tried normalizer using following methods
-apha() check for alphabets whereas rest methods checks for affixes from words and aims in removing those.
-    1.) isalpha()
-    2.) PorterStemmer()
-    3.) WordNetLemmatizer()
+### I tried normalizer using following methods  
+apha() check for alphabets whereas rest methods checks for affixes from words and aims in removing those.  
+    1.) isalpha()  
+    2.) PorterStemmer()  
+    3.) WordNetLemmatizer()  
     4.) SnowballStemmer
  
 ### Code Snippets 
