@@ -1,4 +1,6 @@
-# Normalization-with-NLTK
+# Normalization-with-NLTK  
+![500_400](https://user-images.githubusercontent.com/3431730/77932179-d0302d80-72ca-11ea-9e04-4e478b90dd87.jpeg)
+
 ## Let see the final Look at the string after and before Normalization using the image
 ![demo_result](https://user-images.githubusercontent.com/3431730/43356135-bb850eec-9288-11e8-968a-4c24932670c0.png)
 
